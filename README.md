@@ -31,7 +31,7 @@ A simple and elegant **Stopwatch Timer** application built using **C# and Window
 
 ---
 
-## 📷 Screenshots
+## 📷 **Screenshots**
 *![Image](https://github.com/user-attachments/assets/c317dcc9-243f-4a61-99df-f32b3aa3fb55)
 ![Image](https://github.com/user-attachments/assets/2bde3afa-2f83-4155-97e8-cab941daed2e)*
 
