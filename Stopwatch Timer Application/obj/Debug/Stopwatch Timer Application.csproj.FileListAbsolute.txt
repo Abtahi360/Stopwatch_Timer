@@ -1,0 +1,10 @@
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\bin\Debug\Stopwatch Timer Application.exe.config
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\bin\Debug\Stopwatch Timer Application.exe
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\bin\Debug\Stopwatch Timer Application.pdb
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\obj\Debug\Stopwatch Timer Application.csproj.AssemblyReference.cache
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\obj\Debug\Stopwatch_Timer_Application.Form1.resources
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\obj\Debug\Stopwatch_Timer_Application.Properties.Resources.resources
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\obj\Debug\Stopwatch Timer Application.csproj.GenerateResource.cache
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\obj\Debug\Stopwatch Timer Application.csproj.CoreCompileInputs.cache
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\obj\Debug\Stopwatch Timer Application.exe
+P:\Programming\C#\Projects\Stopwatch Timer Application\Stopwatch Timer Application\obj\Debug\Stopwatch Timer Application.pdb
