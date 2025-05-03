@@ -39,4 +39,4 @@ A simple and elegant **Stopwatch Timer** application built using **C# and Window
 
 ## 👨‍💻 Author
 **Abtahi Islam** – *CSE Student, American International University – Bangladesh*  
-📧 *23-50434-1@student.aiub.edu*
+📧 *abtahibinislam2018@gmail.com*
